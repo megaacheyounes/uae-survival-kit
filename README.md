@@ -37,17 +37,6 @@ The shelter page opens immediate actions, instructions for coming indoors, famil
 
 The printable cards are available in [English](app/src/main/assets/shelter-card-en.pdf) and [Arabic](app/src/main/assets/shelter-card-ar.pdf). To update it after editing the Android strings, run `python tools/shelter_card.py`, print each generated HTML file to A4 PDF with browser headers and footers disabled, and replace its matching PDF.
 
-### Compatibility checks
-
-| Device | Offline guides | Maps | Optional local AI |
-|---|---|---|---|
-| Galaxy A53 SM-A536E, Android 16 | Signed 1.15 upgrade passed in airplane mode with Wi-Fi off at 150% text. English and Arabic shelter instructions, print preview, share sheet, battery settings and charge-log persistence after restart were checked. | Street and Al Ghail aerial verified offline on 1.14 | Outside the 1.15 kit drill |
-| Android 16 project emulator, about 2.4 GiB guest RAM | 1.15 passed first launch offline, English/Arabic, 150% text, lock/unlock and charge-log persistence | Outside the 1.15 kit drill | Outside the 1.15 kit drill |
-
-The Android build targets ARM64 devices running Android 11 or later. Before public distribution, obtain local emergency-response and native-Arabic review of the instructions and printable card.
-
-The emulator drill ran with no active network, Android's low-storage warning forced on and about 770 MiB free. Printing and sharing opened their system screens. The battery shortcut opened the native battery dashboard. To repeat, install a fresh QA build on an unlocked test device, select airplane mode, disable Wi-Fi and run `python tools/check_emergency_kit.py SERIAL --package PACKAGE`.
-
 A personal offline field guide for all seven emirates. Built with Kotlin, Jetpack Compose, Mapsforge and llama.cpp. The APK requests foreground location for the map. The signed installer carries the UAE map and place directory. Settings → Offline downloads supports importing map packs and the optional AI model. The model can also be downloaded from the official Qwen repository. Downloads resume on retry and are checked against pinned SHA-256 digests before installation. Local file import remains available.
 
 Home opens emergency procedures and the dialer. The interface, readers and street map use the dark theme. Open **Settings → Sources & credits** for map attribution, contact authorities, photo credits and guide references. Guide readers also have **Tools → Guide source**.
@@ -114,17 +103,3 @@ To rebuild the backdrop, install Shapely 2 and osmium in the project virtual env
 The optional model is the official Qwen2.5‑1.5B‑Instruct Q4_K_M at revision `91cad51170dc346986eccefdc2dd33a9da36ead9`. Its required SHA-256 is `6a1a2eb6d15622bf3c96857206351ba97e1af16c30d7a74ee38970e434e9407e`. [Model and license](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF)
 
 Run `python tools/verify_delivery.py` to check the transfer files, model hash, APK contents, SQLite integrity, Arabic search and geographic coverage. The field guide records a source authority, URL and review date for its published contacts and guides.
-
-## Galaxy A53 reader checks on November 19, 2026
-
-UAE Field Guide 1.14 ran in airplane mode with Wi-Fi off on a Samsung SM-A536E running Android 16. At 150% text, the shelter guide kept its place on step 2 of 6 and supported two-finger diagram zoom. A field photograph enlarged, panned and returned to its fitted view. A PDF reopened on the chosen bookmark after two process restarts. A 40-second test video reopened at its saved 0:10 position and played through 0:13.
-
-## Tested on November 17, 2026
-
-The privately signed release targets ARM64 Android 11 and newer. Android's APK verifier accepted its v3 signature. The original map pack contained 4,466 searchable places from the November 17 UAE extract. The geographic checks found a named town or city and a nearby service in each emirate, Hatta and Khor Fakkan. The transfer files and their SHA-256 digests are in `delivery`.
-
-The Android 16 test emulator ran in airplane mode with Wi-Fi off, two virtual CPUs, ARM64 translation, and approximately 4.8 GiB of visible RAM. One sample during local AI testing reported 3.1 GiB available. Checks covered opening a guide, handing 998 to the dialer, importing and replacing the UAE map, finding Hatta Hospital after an interrupted replacement, and displaying a simulated Dubai GPS fix with accuracy. A PDF reopened on bookmarked page 2. A video resumed at its saved eight-second position after the app process restarted.
-
-In the earlier emulator run, model import plus the generation check took roughly 33 seconds. The cited flooded-road answer took roughly 52 seconds including UI automation.
-
-Version 1.22 generated a shadow-navigation answer offline on a Galaxy A53 in 28 seconds. On a Huawei Pura X Max, a route-planning paraphrase with no text-index candidates took about 90 seconds including opening the correct guide step. Both devices declined an unrelated chess question. Run `tools/check_ask_incidents.py` with an ADB serial to repeat the incident and citation checks. Use `--variants` for alternative descriptions or `--model` on a phone with Qwen enabled.
