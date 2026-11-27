@@ -1,0 +1,294 @@
+{
+  "checked": "2026-11-17",
+  "refs": {
+    "foodIllness": ["CDC · Food poisoning symptoms", "https://www.cdc.gov/food-safety/signs-symptoms/"],
+    "sharpObject": ["Healthdirect · Swallowed object", "https://www.healthdirect.gov.au/accidents-and-injuries/swallowed-object"],
+    "animalExposure": ["WHO · Rabies exposures", "https://www.who.int/news-room/fact-sheets/detail/rabies"],
+    "caveAir": ["NIOSH · Working safely in confined spaces", "https://archive.cdc.gov/www_cdc_gov/niosh/topics/emres/confined.html"],
+    "poisonAid": ["Poison Control · First aid for poisoning", "https://www.poison.org/first-aid-for-poisonings"],
+    "wildFungus": ["Poison Control · Wild mushroom poisoning", "https://www.poison.org/articles/wild-mushroom-warning"],
+    "insectAid": ["NHS · Insect bites and stings", "https://www.nhs.uk/conditions/insect-bites-and-stings/"],
+    "woundAid": ["NHS · Cuts and grazes", "https://www.nhs.uk/conditions/cuts-and-grazes/"],
+    "dustVisibility": ["National Weather Service · Dust and visibility", "https://www.weather.gov/safety/wind-dust-storm"],
+    "sunEyes": ["NASA · Solar viewing safety", "https://science.nasa.gov/eclipses/safety/"],
+    "federal": [
+      "UAE Government",
+      "https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-emergencies"
+    ],
+    "dewa": [
+      "Dubai Electricity and Water Authority",
+      "https://dewa.gov.ae/en/about-us/support-and-points-of-interest/contact-us"
+    ],
+    "taqa": [
+      "TAQA Distribution",
+      "https://www.addc.ae/en-US/home/Pages/ContactUs.aspx"
+    ],
+    "sewa": [
+      "Sharjah Electricity, Water and Gas Authority",
+      "https://m.sewa.gov.ae/en/contact-us"
+    ],
+    "etihad": [
+      "Etihad Water and Electricity",
+      "https://www.etihadwe.ae/en/ContactUs/Pages/Emergency.aspx"
+    ],
+    "heat": [
+      "Abu Dhabi Early Childhood Authority · Summer Safety Guide",
+      "https://www.eca.gov.ae/-/media/ECA/Guidelines/documents/Download-Summer-Safety-Guide.pdf"
+    ],
+    "weather": [
+      "Dubai Health Authority · Your Health Guide During Weather Challenges",
+      "https://dha.gov.ae/uploads/052024/Your%20Health%20Guide%20during%20Weather%20challenges_EN2024554613.pdf"
+    ],
+    "sand": [
+      "US National Park Service · Sand and Mud Driving Tips",
+      "https://www.nps.gov/moja/sand-and-mud-driving-tips.htm"
+    ],
+    "hike": [
+      "Government of Canada · UAE travel advice",
+      "https://travel.gc.ca/destinations/united-arab-emirates"
+    ],
+    "sea": [
+      "UK Foreign, Commonwealth & Development Office · UAE travel advice",
+      "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
+    ]
+  },
+  "incidentSources": {
+    "checked": "2026-11-20",
+    "caveair": ["poisonAid", "federal"],
+    "sickfood": ["sharpObject", "animalExposure", "federal"],
+    "wildmushroom": ["poisonAid", "federal"],
+    "bugwound": ["woundAid", "federal"],
+    "dimsky": ["sunEyes"],
+    "swallowedpoison": ["sharpObject", "federal"],
+    "animalbite": ["woundAid"]
+  },
+  "guides": [
+    ["caveair", "Feeling unwell in an enclosed space", "cave tunnel cellar pit well tank mine fog cloudy haze dizzy woozy fumes strange oxygen",
+      ["Get to fresh air now. If you are still inside, leave by the safe way you came in. Keep others outside, even to rescue someone. From fresh air call UAE ambulance 998 if anyone feels strange, dizzy, confused or short of breath after the exposure. Tell rescuers where the entrance is and who is still inside. Without signal, send someone for help from outside.",
+       "Keep the entrance clear. Haze, smell and symptoms cannot identify a gas or tell you whether there is enough oxygen. Stay outside even if you feel better. Rescuers need air-testing and breathing equipment."], "caveAir"],
+    ["sickfood", "Sick after eating questionable food", "ate eaten meat animal foot paw dog chicken food sick nausea vomiting cramps diarrhea",
+      ["Stop eating the food. If choking, struggling to breathe or collapsing, call UAE ambulance 998. If you may have swallowed a sharp bone, seek emergency care now and avoid food or drink until assessed. Otherwise, if alert and able to swallow, take small sips of safe water or oral rehydration solution. Get urgent care for bloody stools, vomiting that prevents drinking, or very little urine. The symptoms alone cannot identify the cause.",
+       "Explain what you ate. Tell a clinician when you ate it, whether it was raw, whether you swallowed a sharp bone, and when symptoms began. Seek urgent assessment for a suspected sharp bone. If a sick or stray mammal bit or scratched you, or its saliva contacted a cut, eyes or mouth, seek prompt assessment for rabies prevention."], "foodIllness"],
+    ["wildmushroom", "An unidentified wild mushroom", "fungus fungi toadstool mushroom cap red white gills picked yard edible taste ate swallowed",
+      ["Leave it uneaten. Cap colour, spots and a description cannot establish that a mushroom is edible. Cooking it cannot be relied on to remove toxins. If anyone has already eaten even a little, get poison advice or emergency-department care now, even if they feel fine. Do not make them vomit. For collapse, trouble breathing or a seizure, call UAE ambulance 998.",
+       "Get poison advice now if any was swallowed. Go to an emergency department if you cannot reach poison advice. Even if you feel well, do not wait for symptoms and do not make yourself vomit. If someone collapses, has a seizure or struggles to breathe, call UAE ambulance 998 immediately.",
+       "Keep details for identification. If safe, photograph the whole mushroom, including its underside and base, and note the amount and time eaten. Do not delay getting help to collect it. Serious symptoms can take hours to appear."], "wildFungus"],
+    ["bugwound", "Bleeding after an insect bite or sting", "bug insect bitten bite sting stung bleeding redness spot itchy swelling",
+      ["Check breathing and stop the bleeding. Call UAE ambulance 998 for trouble breathing, sudden swelling of the tongue or throat, fainting, or heavy bleeding that will not stop. For a small bleeding spot, press a clean cloth firmly against it. If anything is embedded, press beside it. Once bleeding stops, rinse with clean water and cover with a clean dressing.",
+       "Watch the skin and how you feel. Lack of itching does not identify the insect. Seek care if redness spreads, the skin becomes hot and painful, pus appears, you develop fever, or symptoms worsen. Note when it happened and how the mark changes."], "insectAid"],
+    ["dimsky", "Unexpected darkness during the day", "afternoon daylight sun dark obscured sky birds silent quiet visibility",
+      ["Check visibility before moving. A dark sky and quiet birds alone cannot tell you what is happening. Check your phone or watch for the local time. From a safe spot, look around for blowing dust, thick cloud or smoke. Avoid looking directly at the Sun. If you cannot see the route, stop travelling and stay clear of traffic.",
+       "Look for independent evidence. Check local alerts or a battery radio if available. If you see nearby smoke or flames, move away from them. If blowing dust is obscuring the road, avoid entering it. What can you see at ground level, and is there a smell of smoke?"], "dustVisibility"],
+    ["animalbite", "A bite or scratch from a mammal", "dog cat bat fox stray animal scratch bite saliva skin rabies",
+      ["Wash the wound and get assessed today. For a bite or scratch from a potentially rabid animal, wash thoroughly with soap and running water for at least 15 minutes. Seek urgent medical care for rabies prevention, even if the wound is small. If bleeding is heavy, control it first and get emergency help."], "animalExposure"],
+    ["swallowedpoison", "A possible poisoning or swallowed object", "swallowed drank cleaner chemical bleach fuel pesticide pill tablet button battery magnet poison",
+      ["Get poison advice immediately. If someone has collapsed, is hard to wake, is having a seizure or is struggling to breathe, call UAE ambulance 998 now. Do not induce vomiting. Keep the container or label and note what was swallowed, how much and when. If you cannot reach poison advice, seek emergency-department care.",
+       "A battery, magnet or sharp object needs emergency care now. Do not wait for symptoms. Avoid food or drink until medical staff advise you. Take the packaging if it is available without delaying care."], "poisonAid"],
+    [
+      "heat",
+      "Extreme heat",
+      "sun hot heatwave shade hydration overheating summer",
+      [
+        "Plan strenuous errands and walks for cooler hours. Before leaving, pack drinking water, a hat and light clothing.",
+        "Take breaks in shade or air conditioning and drink water regularly. Keep children out of parked vehicles, even for a short stop."
+      ],
+      "heat"
+    ],
+    [
+      "wadi",
+      "Flash floods and wadis",
+      "rain storm flood valley wadi flooded road crossing",
+      [
+        "Check the weather before entering a valley. During heavy rain, keep clear of wadi beds, drainage channels and low crossings.",
+        {"id": "flooded-road", "body": "Turn back at a flooded road. Water can conceal a washed-out surface. Follow closures and move to higher ground when safe."}
+      ],
+      "weather"
+    ],
+    [
+      "desert",
+      "Desert vehicle breakdown",
+      "car stranded sand stuck dunes desert vehicle breakdown offroad",
+      [
+        "Carry drinking water and emergency supplies before going off paved roads.",
+        "If stranded in sand, stop spinning the wheels. When it is safe to stay, remain with the vehicle so rescuers can find you. Rest in its shade and avoid strenuous work in the heat."
+      ],
+      "sand"
+    ],
+    [
+      "mountain",
+      "Mountain trips",
+      "hike hiking walking trail lost mountain trekking peaks",
+      [
+        "Leave your route and expected return time with someone before setting off. Travel with companions and carry water, food and navigation equipment.",
+        "Check local weather and trail conditions before departure. Arrange a way to contact help in areas where mobile coverage may be limited."
+      ],
+      "hike"
+    ],
+    [
+      "coast",
+      "Coastal outings",
+      "beach swim swimming rip current red flag coastal sea water",
+      [
+        "Check flags, signs and lifeguard instructions before going into the water.",
+        "A red flag warns of dangerous swimming conditions. Stay out of the water. Strong rip currents can carry experienced swimmers away from shore."
+      ],
+      "sea"
+    ],
+    [
+      "home",
+      "Household fire and evacuation",
+      "home house kitchen apartment building fire smoke stairs lift evacuation",
+      [
+        "If a fire starts, alert others and leave by the marked exit. Use stairs. Leave belongings behind.",
+        "Once outside, contact Civil Defence. Stay outside until the authorities say it is safe to return."
+      ],
+      "federal"
+    ]
+  ],
+  "contacts": [
+    [
+      "Police",
+      "999",
+      "federal",
+      "UAE"
+    ],
+    [
+      "Ambulance",
+      "998",
+      "federal",
+      "UAE"
+    ],
+    [
+      "Fire · Civil Defence",
+      "997",
+      "federal",
+      "UAE"
+    ],
+    [
+      "Coastguard",
+      "996",
+      "federal",
+      "UAE"
+    ],
+    [
+      "Search and rescue",
+      "995",
+      "federal",
+      "UAE"
+    ],
+    [
+      "Power emergency",
+      "991",
+      "taqa",
+      "Abu Dhabi"
+    ],
+    [
+      "Electricity or water emergency",
+      "991",
+      "dewa",
+      "Dubai"
+    ],
+    [
+      "Sharjah City utility emergency",
+      "991",
+      "sewa",
+      "Sharjah"
+    ],
+    [
+      "Electricity emergency · EtihadWE service area",
+      "991",
+      "etihad",
+      "Ajman"
+    ],
+    [
+      "Electricity emergency · EtihadWE service area",
+      "991",
+      "etihad",
+      "Umm Al Quwain"
+    ],
+    [
+      "Electricity emergency · EtihadWE service area",
+      "991",
+      "etihad",
+      "Ras Al Khaimah"
+    ],
+    [
+      "Electricity emergency · EtihadWE service area",
+      "991",
+      "etihad",
+      "Fujairah"
+    ]
+  ],
+  "emirates": [
+    [
+      "Abu Dhabi",
+      24.4539,
+      54.3773,
+      [
+        "desert",
+        "heat",
+        "coast"
+      ]
+    ],
+    [
+      "Dubai",
+      25.2048,
+      55.2708,
+      [
+        "home",
+        "desert",
+        "wadi"
+      ]
+    ],
+    [
+      "Sharjah",
+      25.3463,
+      55.4209,
+      [
+        "coast",
+        "mountain",
+        "wadi"
+      ]
+    ],
+    [
+      "Ajman",
+      25.4052,
+      55.5136,
+      [
+        "coast",
+        "heat",
+        "wadi"
+      ]
+    ],
+    [
+      "Umm Al Quwain",
+      25.5647,
+      55.5533,
+      [
+        "coast",
+        "heat",
+        "desert"
+      ]
+    ],
+    [
+      "Ras Al Khaimah",
+      25.7895,
+      55.9432,
+      [
+        "mountain",
+        "wadi",
+        "coast"
+      ]
+    ],
+    [
+      "Fujairah",
+      25.1288,
+      56.3265,
+      [
+        "mountain",
+        "wadi",
+        "coast"
+      ]
+    ]
+  ]
+}

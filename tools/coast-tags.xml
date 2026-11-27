@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tag-mapping xmlns="http://mapsforge.org/tag-mapping" default-zoom-appear="0" profile-name="UAE coast">
+    <pois>
+        <osm-tag key="overview" value="major_centre" zoom-appear="0"/>
+        <osm-tag key="overview" value="emirate_centre" zoom-appear="0"/>
+    </pois>
+    <ways>
+        <osm-tag key="natural" value="sea" zoom-appear="0"/>
+        <osm-tag key="overview" value="land_border" zoom-appear="0" force-polygon-line="true"/>
+    </ways>
+</tag-mapping>

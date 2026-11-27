@@ -1,0 +1,481 @@
+[
+  {
+    "id": "stars",
+    "chapter": "Navigation",
+    "title": "Find north by the stars",
+    "tags": "lost after dark Polaris Big Dipper south night sky Hatta",
+    "ref": "NASA · How to find the North Star",
+    "steps": [
+      {
+        "heading": "Give your eyes a horizon",
+        "body": "Stand somewhere stable with an open view. Move a few steps into shade from lamps; keep your footing visible. Near Dubai, Polaris is about 25° above the northern horizon, roughly two and a half fist-widths at arm’s length. A ridge or tower can hide it."
+      },
+      {
+        "heading": "Trace the pointer stars",
+        "body": "Find the four-star bowl and three-star handle of the Big Dipper. Start at Merak on the outer bottom of the bowl. Look through Dubhe at the outer rim, then extend that line about five times the gap. Polaris is the modest star near the end of that line. The bowl can look tilted or upside down.",
+        "image": "pointers"
+      },
+      {
+        "heading": "Bring the bearing down to earth",
+        "body": "Face Polaris and lower your gaze straight down to the horizon. Mark a landmark there: that direction is approximately true north. South is behind you; east is on your right. Record the landmark before switching your light on.",
+        "image": "altitude"
+      },
+      {
+        "heading": "Use the chart for tonight",
+        "body": "These views face north from Dubai around 9 pm Gulf Standard Time on the 15th of each month shown. Dots below the horizon are omitted. In autumn the bowl can be hidden. If you cannot identify both pointers, switch to your compass or wait in a safe place.",
+        "image": "seasons"
+      },
+      {
+        "heading": "Practice before relying on it",
+        "body": "From a familiar site, mark your estimate with two stones. Check with a compass set to true north or an oriented map. Knowing a direction alone cannot tell you which route leads home."
+      }
+    ],
+    "url": "https://science.nasa.gov/solar-system/skywatching/what-is-the-north-star-and-how-do-you-find-it/"
+  },
+  {
+    "id": "shadow",
+    "chapter": "Navigation",
+    "title": "Find east and west with a stick",
+    "tags": "north south shadows stick compass directions lost daytime",
+    "ref": "Field exercise · equal-altitude shadow geometry",
+    "steps": [
+      {
+        "heading": "Set a vertical stick",
+        "body": "Choose sunny, level ground clear of foot traffic. Stand a straight stick upright, check it from two sides, and keep it fixed. Start before local solar noon. Pack two markers, string and a pencil."
+      },
+      {
+        "heading": "Record the morning tip",
+        "body": "Mark the tip of the stick’s shadow A. Tie the string loosely at the foot of the stick, stretch it to A, and scratch an arc at that radius. Label A morning. As noon approaches, the tip should move inside the arc.",
+        "image": "shadow"
+      },
+      {
+        "heading": "Wait for the second crossing",
+        "body": "During the afternoon the shadow grows. Mark B where the tip crosses the same arc again. Join A to B. A is approximately west and B east. With west on your left and east on your right, you face north.",
+        "image": "axes"
+      },
+      {
+        "heading": "Check the result",
+        "body": "Draw a perpendicular through the middle of AB and label its north and south ends. Compare with a compass outdoors. If the stick moved, the ground slopes sharply, or you missed a crossing, repeat on another day. Two arbitrary marks a few minutes apart give a poorer estimate."
+      }
+    ],
+    "url": ""
+  },
+  {
+    "id": "noon",
+    "chapter": "Navigation",
+    "title": "Tell solar time from shadows",
+    "tags": "clock sundial shadow time noon hours",
+    "ref": "Field exercise · apparent solar time",
+    "steps": [
+      {
+        "heading": "Mark the shortest shadow",
+        "body": "On level ground mark the tip of a vertical stick’s shadow every ten minutes either side of midday. Write each time next to its mark. The shortest shadow is close to local solar noon. Bracket it with marks on both sides; a single short shadow gives little information.",
+        "image": "noon"
+      },
+      {
+        "heading": "Build a daylight clock",
+        "body": "Use a fixed stick and mark the tip at each known hour on a day when a clock works. Label the date and hour. On a nearby date, read the current tip against those marks and interpolate between them. Keep the same stick, height and location."
+      },
+      {
+        "heading": "Understand the error",
+        "body": "Solar noon is the instant the sun crosses your local meridian. UAE clocks share a time zone; towns at different longitudes reach solar noon at different clock times. The seasonal sun angle changes the path. Update the marks as the weeks pass."
+      },
+      {
+        "heading": "Know when direction fails",
+        "body": "Across the southern UAE near the Tropic of Cancer a midday shadow may be tiny or point south during part of summer. Use paired morning and afternoon marks for orientation. For a deadline or medicine schedule use an actual clock."
+      }
+    ],
+    "url": ""
+  },
+  {
+    "id": "route",
+    "chapter": "Navigation",
+    "title": "Make a paper route and turnaround card",
+    "tags": "map compass bearing coordinates offline gps lost landmark",
+    "ref": "Field exercise · route planning",
+    "steps": [
+      {
+        "heading": "Draw the return route first",
+        "body": "Write the start point, destination, map date and planned return time. Mark each junction and what it looks like on the way back. Record an unmistakable feature before any hazardous terrain."
+      },
+      {
+        "heading": "Orient the map",
+        "body": "Place it flat and away from vehicles or metal. Compare its north arrow with the compass, accounting for the map’s magnetic declination. Turn the map until matching features align. Check a second feature before moving.",
+        "image": "rose"
+      },
+      {
+        "heading": "Record a fix everyone can read",
+        "body": "On the map, take a GPS fix and write latitude first, longitude second, with N and E and the accuracy radius. Add the time and nearest named feature. A cached map works without mobile data; carry a paper copy for a flat battery."
+      },
+      {
+        "heading": "Use a turnaround rule",
+        "body": "Write the latest return time and the supply level at which you will turn around. If terrain stops matching the card, stop; backtrack only along a known safe section. From a safe position near a stranded vehicle, preserve shade and visibility."
+      }
+    ],
+    "url": ""
+  },
+  {
+    "id": "findwater",
+    "chapter": "Water",
+    "title": "Find a dependable water supply",
+    "tags": "fresh water oasis spring falaj well taps dry drinking refill Hatta wadi",
+    "ref": "CDC · Emergency drinking water",
+    "steps": [
+      {
+        "id": "known-supply",
+        "heading": "Start with water you can account for",
+        "body": "Count sealed bottles, clean stored drinking water and known working potable refill points. Record litres, people, heat exposure and the next confirmed supply. Six 1.5 L bottles give 9 L total. Record stocks for drinking, food preparation and hygiene separately."
+      },
+      {
+        "id": "water-symbol",
+        "heading": "Read a water symbol correctly",
+        "body": "A falaj carries irrigation water, a wadi marks a drainage course, and a well symbol records infrastructure. None confirms drinkability, current flow or public access. Look for a tap explicitly designated for drinking and check for an active contamination advisory.",
+        "image": "water"
+      },
+      {
+        "id": "dubai-refill",
+        "heading": "Locate a documented Dubai refill",
+        "body": "The Dubai Can 2024 fountain map lists Dubai Marina Walk (17), Kite Beach (31) and Zabeel Park (46). Open Water → Dubai Can drinking-water refill map for the city diagram and full directory. These are published locations. Confirm the tap is marked potable and working before counting it as a supply, especially during a grid outage. For other emirates, record locally confirmed public drinking taps on your route card.",
+        "image": "refill"
+      },
+      {
+        "heading": "Make a two-source route",
+        "body": "Before leaving, confirm the primary refill and a backup along a road or staffed site you can reach and return from. Write the location, opening/access information, date checked and your turn-back point. Carry enough to return if the first site is dry."
+      },
+      {
+        "heading": "If the source is unknown",
+        "body": "Stay clear of flood channels, fenced wells and tanks. Clear water can carry microbes; salinity, fuel and industrial contamination need different handling. If the source may contain chemicals or radioactive debris, switch sources. Walking deeper into heat to chase vegetation can consume more water than you find."
+      },
+      {
+        "heading": "Collect without spoiling the reserve",
+        "body": "Use a separate container for untreated water. Mark it RAW. Pour into a treatment pot away from the mouth of your clean bottle. Keep the clean cap off the ground and avoid dipping cups or hands into the reserve."
+      }
+    ],
+    "url": "https://www.cdc.gov/water-emergency/about/"
+  },
+  {
+    "id": "treat",
+    "chapter": "Water",
+    "title": "Treat water and keep it clean",
+    "tags": "boil germs water purification disinfection salty brackish salt seawater",
+    "ref": "CDC · How to make water safe",
+    "steps": [
+      {
+        "heading": "Decide what treatment can do",
+        "body": "Choose sealed drinking water first. For a fresh source with a microbiological concern, heat can kill germs. Boiling does not remove salt, fuel, heavy metals or radioactive material. If any is suspected, use another supply."
+      },
+      {
+        "heading": "Clarify cloudy fresh water",
+        "body": "Let suspended grit settle; draw the clearer upper water into a clean pot, or pass it through clean cloth. This reduces sediment. Water still needs treatment before drinking."
+      },
+      {
+        "heading": "Bring the whole pot to a rolling boil",
+        "body": "Once large bubbles continuously break the surface, keep it at that boil for one minute. Above 6,500 ft (about 1,980 m) use three minutes. Let it cool naturally under a clean cover. Adding untreated ice or water contaminates it again.",
+        "image": "boil"
+      },
+      {
+        "heading": "Keep the clean side clean",
+        "body": "Pour into a sanitized, covered vessel. Label it with the treatment time. Dispense through a tap or pour into a cup. If a dirty lip, hand or utensil touches the stored water, treat it as untreated again."
+      }
+    ],
+    "url": "https://www.cdc.gov/water-emergency/about/"
+  },
+  {
+    "id": "campfire",
+    "chapter": "Fire & shelter",
+    "title": "Light and extinguish a small campfire",
+    "tags": "make fire cooking tinder kindling matches wood wind outdoors",
+    "ref": "National Park Service · Campfire safety",
+    "steps": [
+      {
+        "heading": "Choose the site before striking a match",
+        "body": "Use a permitted outdoor fire site and an established fire ring. Check for wind, restrictions and dry vegetation. Have water and a stirring tool beside you. Skip the fire if you cannot extinguish it completely. Charcoal and stoves produce carbon monoxide in enclosed spaces."
+      },
+      {
+        "heading": "Prepare three sizes of dry fuel",
+        "body": "Lay out a small loose bundle of dry tinder, pencil-thin kindling, then a few thumb-thick pieces of dry wood. Bring permitted fuel. Keep the reserve away from sparks. Break pieces to fit the ring before lighting.",
+        "image": "fuel"
+      },
+      {
+        "heading": "Light from the sheltered side",
+        "body": "Place tinder in the ring with a loose tent of thin kindling over it and an opening for air. Touch a match or lighter to the tinder from the side. Keep your face back. When several twigs sustain a flame, add the next size one piece at a time.",
+        "image": "kindle"
+      },
+      {
+        "heading": "If the flame dies",
+        "body": "Let the material cool before rearranging. A smoking pile may be damp or packed too tightly. Replace damp tinder and leave gaps between twigs. Never pour fuel or other accelerants on it. If wind carries embers out of the ring, extinguish it."
+      },
+      {
+        "heading": "Cook over stable support",
+        "body": "Use an existing grate or stable camp cookware designed for the site. Keep handles clear of passing feet, loose sleeves away from flames and children outside the cooking area. For a no-fire meal use ready-to-eat tins, flatbread and sealed water."
+      },
+      {
+        "heading": "Leave the ring cold",
+        "body": "Douse gradually, stir the wet ash and turn over larger pieces. Add water and stir again, including the edges. Check for heat with the back of your hand held above the ashes first. Leave only when everything is cold. Sand can bury hot embers that later burn a walker.",
+        "image": "extinguish"
+      }
+    ],
+    "url": "https://www.nps.gov/articles/campfires.htm"
+  },
+  {
+    "id": "shade",
+    "chapter": "Fire & shelter",
+    "title": "Rig shade near a stranded vehicle",
+    "tags": "desert breakdown shade tarp shelter signal lost sand vehicle",
+    "ref": "Field exercise · shade and signaling",
+    "steps": [
+      {
+        "heading": "Pick ground that stays safe",
+        "body": "Move clear of traffic, unstable slopes and drainage channels. Look above for loose rock. Locate the vehicle’s afternoon shadow and watch how quickly its edge moves."
+      },
+      {
+        "heading": "Stretch a ventilated shade",
+        "body": "Tie one reinforced edge of a sheet to secure stationary supports. Support the other edge lower with poles or sound anchors. Leave open sides for airflow. Keep the sheet clear of hot engine parts, exhausts and traffic.",
+        "image": "shade"
+      },
+      {
+        "heading": "Make the site visible",
+        "body": "Place a bright cloth where a passing searcher can see it. Write your last known position, time, water supply and planned check-in on paper. Keep the group together and make short shade adjustments before the sun reaches everyone."
+      },
+      {
+        "heading": "Practice with the kit you carry",
+        "body": "Pitch the shade in a permitted area, sit underneath and check it again after half an hour. Notice where the shadow has moved. Lower or take down the sheet if it starts acting like a sail."
+      }
+    ],
+    "url": ""
+  },
+  {
+    "id": "blackout",
+    "chapter": "Grid failure",
+    "title": "Get through the first night without power",
+    "tags": "blackout grid collapse AC dead fridge apartment high rise electricity",
+    "ref": "FEMA · Power outages",
+    "steps": [
+      {
+        "heading": "Mark the time and light the route",
+        "body": "Write down when power failed. Put a torch beside the door and shoes beside each bed. Keep fridge and freezer doors closed. Check on people relying on cooling, powered medical equipment or refrigerated medication immediately."
+      },
+      {
+        "heading": "Find the coolest usable room",
+        "body": "Shade sun-facing windows. Use safe cross-ventilation when outside air is cooler and conditions permit. Move strenuous tasks to a cooler time. Arrange an accessible cooler destination early for anyone who cannot safely remain in heat."
+      },
+      {
+        "heading": "Separate food by what can wait",
+        "body": "An unopened fridge generally holds safe temperatures for about four hours. A full closed freezer gives about 48 hours, or 24 if half full. Use a thermometer when possible; discard temperature-abused perishables. Taste cannot tell you whether food is safe.",
+        "image": "outage"
+      },
+      {
+        "heading": "Choose a safe meal and light",
+        "body": "Open only what you can finish without refrigeration. Use torches or battery lanterns. Never bring charcoal, a camp stove or a running generator into a room, garage or enclosed balcony. Avoid lifts during an unstable supply."
+      },
+      {
+        "heading": "Plan the handover",
+        "body": "Write who has the torch, water, medication instructions and door keys. Set the next radio check, buddy check and decision time for relocation. If a building is unsafe or heat illness is suspected, act immediately."
+      }
+    ],
+    "url": "https://www.ready.gov/power-outages"
+  },
+  {
+    "id": "supplies",
+    "chapter": "Grid failure",
+    "title": "Run a household supply ledger",
+    "tags": "grid collapse long outage water ration pantry sanitation communications",
+    "ref": "Field exercise · household logistics",
+    "steps": [
+      {
+        "heading": "Measure the starting stock",
+        "body": "On paper write item, usable amount, people, and next confirmed resupply. Count actual litres, ready-to-eat meals, essential medication and charged lights. Separate stock that needs cooking or refrigeration."
+      },
+      {
+        "heading": "Work a day on paper",
+        "body": "A household starting with 18 L that uses 7 L across a day has 11 L left. At the same use that is about another day and a half. Use the calculation to bring resupply or relocation forward. Never treat an inventory example as a drinking limit."
+      },
+      {
+        "heading": "Make a handwashing station",
+        "body": "Set a covered clean-water container with a tap above a catch basin. Place soap and clean drying material nearby. Keep washing runoff and toilet waste away from food, drinking-water vessels and collection points."
+      },
+      {
+        "heading": "Build a communications routine",
+        "body": "Write two meeting points and who checks on each person. Agree on periodic radio and phone checks, then dim screens and conserve batteries. Keep one paper copy with each adult; check whether stairs and routes remain usable before splitting up."
+      },
+      {
+        "heading": "Close the day",
+        "body": "Record actual use, spoilage and battery state. Compare with the next dependable supply, including travel, heat and mobility. Decide on relocation while there is still enough water and daylight to make the trip."
+      }
+    ],
+    "url": ""
+  },
+  {
+    "id": "fallout",
+    "chapter": "Fallout",
+    "title": "Shelter from radioactive fallout",
+    "tags": "nuclear fallout radiation warning contamination decontaminate first 24 hours",
+    "ref": "CDC · Radiation emergencies",
+    "steps": [
+      {
+        "heading": "Get inside immediately",
+        "body": "Enter the nearest substantial building. A brick or concrete structure provides better shielding than a vehicle. Move to a basement or the middle of the building, away from outside walls, windows and the roof. If there is fire, collapse or another immediate danger, move to a safer shelter."
+      },
+      {
+        "heading": "Choose the interior",
+        "body": "In a tower, move into a protected interior area away from the roof and ground-level exterior. In a villa choose a basement if safe or the innermost room. Close windows and doors. Turn off fans or AC systems that draw in outside air if you can do so safely.",
+        "image": "shelter"
+      },
+      {
+        "heading": "Leave outside dust at the entrance",
+        "body": "Gently take off the outer layer of clothing without shaking it. Put it in a bag, close it and keep it away from people and pets. Keep cuts covered while washing. Removing outer clothes alone can remove much of the material."
+      },
+      {
+        "heading": "Wash exposed skin",
+        "body": "Use warm water and soap and wash gently. Shampoo hair without conditioner. Avoid scrubbing or scratching the skin. If no shower is available, wipe exposed skin gently with a damp cloth, especially face and hands; bag used materials. Put on clean clothes."
+      },
+      {
+        "heading": "Use protected food and water",
+        "body": "Prefer sealed drinks and covered food stored indoors. Wipe the outside of containers before opening and bag the wipe. Boiling water cannot remove radioactive contamination. Tap water may still be used for washing unless the authorities advise otherwise."
+      },
+      {
+        "heading": "Stay sheltered and monitor",
+        "body": "Plan to stay inside for at least the first 24 hours unless the building is dangerous, urgent medical needs require leaving, or officials give different directions. A timer cannot measure local radiation. Listen on a battery radio for location-specific instructions; avoid going outdoors to inspect fallout."
+      }
+    ],
+    "url": "https://www.cdc.gov/radiation-emergencies/faq/index.html"
+  },
+  {
+    "id": "sidr",
+    "chapter": "Plant & wildlife atlas",
+    "title": "Sidr • recognize the jujube tree",
+    "tags": "wild edible plants fruit nabq nabk sidr Ziziphus spina-christi berries",
+    "ref": "Emirates Nature–WWF · UAE wild plants",
+    "steps": [
+      {
+        "heading": "Look at the whole plant",
+        "body": "Sidr (Ziziphus spina-christi) occurs in UAE mountain and wadi landscapes and is also planted. Start from a safe path. Observe the branching tree, then examine a low branch without pulling it; branches can bear sharp spines.",
+        "image": "sidr-1.jpg"
+      },
+      {
+        "heading": "Match several features together",
+        "body": "Look for oval leaves with three prominent veins rising from near the base. Compare leaf, branch and round yellow to orange-brown fruit on the same tree. Fruit colour alone cannot settle the identity. Photographs in this guide are documented UAE observations.",
+        "image": "sidr-2.jpg"
+      },
+      {
+        "heading": "Know the edible part",
+        "body": "The flesh of ripe, positively identified sidr fruit is eaten; discard the hard stone. Use fruit from an identified untreated tree with permission. Leave roadside, sprayed, fallen or damaged fruit. Do not infer edibility of foliage, seeds or lookalikes from the fruit.",
+        "image": "sidr-3.jpg"
+      },
+      {
+        "heading": "Practice recognition first",
+        "body": "Draw a leaf with its main veins and photograph the whole tree, branch and fruit. If the fruit or key traits are absent, record the observation and leave it on the tree. Have a knowledgeable local botanist confirm your first field identification."
+      }
+    ],
+    "url": "https://emiratesnaturewwf.ae/sites/default/files/doc-2021-03/Beginners-guide-to-wild-plants-of-the-UAE.pdf"
+  },
+  {
+    "id": "dates",
+    "chapter": "Plant & wildlife atlas",
+    "title": "Date palm • recognize known food trees",
+    "tags": "edible date fruit Phoenix dactylifera tamr palm oasis",
+    "ref": "FAO · Date palm cultivation",
+    "steps": [
+      {
+        "heading": "Start with a known cultivated tree",
+        "body": "Date palms (Phoenix dactylifera) are familiar in UAE oases and gardens. Look for a crown of long feather-like fronds and bunches hanging on stalks below. Street landscaping includes other palm species and cultivated trees have owners.",
+        "image": "dates-1.jpg"
+      },
+      {
+        "heading": "Inspect the bunch from the ground",
+        "body": "On a confirmed food-producing palm, follow a fruit stem back to its bunch. Different cultivars can ripen yellow or red before becoming softer and brown. Colour or a palm silhouette alone is insufficient for identification.",
+        "image": "dates-2.jpg"
+      },
+      {
+        "heading": "Use a known clean harvest",
+        "body": "With the grower’s permission use sound, ripe fruit from an identified untreated crop. Wash with safe water and remove the single elongated pit. Discard moldy, sour or contaminated fruit. Avoid climbing, sharp frond bases and pesticide-treated landscaping.",
+        "image": "dates-3.jpg"
+      }
+    ],
+    "url": "https://www.fao.org/4/y4360e/y4360e00.htm"
+  },
+  {
+    "id": "oleander",
+    "chapter": "Plant & wildlife atlas",
+    "title": "Oleander • a poisonous ornamental",
+    "tags": "poison toxic lookalike pink flowers oleander Nerium oleander",
+    "ref": "MedlinePlus · Oleander poisoning",
+    "steps": [
+      {
+        "heading": "Recognize the shrub",
+        "body": "Oleander (Nerium oleander) is planted in UAE landscaping. Look for long, narrow leathery leaves in opposite pairs or whorls and clusters of flowers. Flower colour varies. Learn these traits from multiple views rather than a single bloom.",
+        "image": "oleander-1.jpg"
+      },
+      {
+        "heading": "Keep it out of the kitchen and fire",
+        "body": "All parts are toxic. Do not taste leaves, use stems for skewers or burn branches as firewood. Keep cuttings away from children and food preparation.",
+        "image": "oleander-2.jpg"
+      },
+      {
+        "heading": "If someone ate part of the plant",
+        "body": "Remove remaining material from the mouth. Do not induce vomiting. Seek urgent medical assistance; in the UAE call 998 if available. Record the time and plant part and take a photo for identification.",
+        "image": "oleander-3.jpg"
+      }
+    ],
+    "url": "https://medlineplus.gov/ency/article/002884.htm"
+  },
+  {
+    "id": "locust",
+    "chapter": "Plant & wildlife atlas",
+    "title": "Desert locust • recognize exposure risks",
+    "tags": "edible insects animals wild food Schistocerca gregaria pesticide locusts",
+    "ref": "FAO · Desert locust FAQs",
+    "steps": [
+      {
+        "heading": "Observe insects where you stand",
+        "body": "Desert locusts (Schistocerca gregaria) change colour and behaviour with age and crowding. Compare the local observations. A yellow or brown grasshopper alone is insufficient evidence of species or food safety.",
+        "image": "locust-1.jpg"
+      },
+      {
+        "heading": "Separate observation from food collection",
+        "body": "Some communities eat locusts, but control operations use insecticides. You cannot establish residue levels by looking at the swarm. Avoid collecting wild insects where treatment history is unknown; do not rely on washing or cooking to remove residues.",
+        "image": "locust-2.jpg"
+      },
+      {
+        "heading": "Choose food with a known origin",
+        "body": "During an outage use stored food first. If using insects for food, use a traceable food-grade source. People allergic to shellfish can react to edible insects. In a fallout incident use sealed indoor food and stay sheltered.",
+        "image": "locust-3.jpg"
+      }
+    ],
+    "url": "https://www.fao.org/locusts/faqs/en/"
+  },
+  {
+    "id": "fish",
+    "chapter": "Plant & wildlife atlas",
+    "title": "Plan a shore-fishing food supply",
+    "tags": "fish hunting edible animals coast Dubai Abu Dhabi protected areas permit shore",
+    "ref": "Environment Agency – Abu Dhabi · Recreational fishing",
+    "steps": [
+      {
+        "heading": "Verify a permitted shore site",
+        "body": "Record emirate, site, current permit, access boundary, open season and permitted species before you go. Dubai Municipality issues a recreational line-and-hook permit. In Abu Dhabi consult EAD’s rules. A beach, animal sighting or public map pin cannot establish permission to take wildlife."
+      },
+      {
+        "heading": "Mark a published Abu Dhabi shore area",
+        "body": "In April 2024 Abu Dhabi City Municipality identified authorized fishing areas within Al Bahia Beach, Al Shalila Beach, Al Sader Beach, Ghantoot and Yas Beach. Plan for the designated section, not the entire shoreline. Check signs and current licence conditions at the site, and turn back at a closure. These historical locations cannot confirm current access."
+      },
+      {
+        "heading": "Use the offline species sheet",
+        "body": "Open the Abu Dhabi fishing booklet in the Library to compare species and protected groups. It is a dated local reference. Record any later local restrictions on your paper route card. Where identity, boundary or season is unclear, leave the animal."
+      },
+      {
+        "heading": "Plan for the return trip",
+        "body": "Check tide and surf before setting out. Choose a stable shore with a dry return route. Carry drinking water, a light, a buddy plan and a cold container for food. Never stand on wave-washed rock to reach fish."
+      },
+      {
+        "heading": "Keep the catch cold",
+        "body": "Keep a legally retained, positively identified fish on ice promptly, away from raw bait and dirty gear. Clean utensils and hands with safe water. Without reliable chilling, plan to cook and eat promptly. Avoid fish kills, sewage outfalls and contamination advisories."
+      },
+      {
+        "heading": "Land animals and birds",
+        "body": "Wildlife reserves and nesting areas are places for observation. Take no eggs or terrestrial game on the assumption that a power outage creates permission. For an extended loss of supply, base the meal plan on known stored foods and verified lawful access."
+      }
+    ],
+    "url": "https://www.dmt.gov.ae/en/adm/Media-Centre/News/23Apr2024"
+  }
+]

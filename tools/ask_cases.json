@@ -1,0 +1,102 @@
+[
+  {
+    "question": "How long do I boil drinking water",
+    "guide": "treat",
+    "step": 3
+  },
+  {
+    "question": "How many minutes should freshwater be at a rolling boil",
+    "guide": "treat",
+    "step": 3
+  },
+  {
+    "question": "Where in Dubai can I refill my bottle",
+    "guide": "findwater",
+    "step": 3
+  },
+  {
+    "question": "Where are the drinking fountains near Kite Beach",
+    "guide": "findwater",
+    "step": 3
+  },
+  {
+    "question": "How do I put out a campfire",
+    "guide": "campfire",
+    "step": 6
+  },
+  {
+    "question": "How can I extinguish the embers before I leave",
+    "guide": "campfire",
+    "step": 6
+  },
+  {
+    "question": "How do I start a cooking fire with a match",
+    "guide": "campfire",
+    "step": 3
+  },
+  {
+    "question": "How should I arrange tinder to light the kindling",
+    "guide": "campfire",
+    "step": 3
+  },
+  {
+    "question": "Where inside an apartment should I shelter from fallout",
+    "guide": "fallout",
+    "step": 2
+  },
+  {
+    "question": "Which room offers shelter during a radiation emergency",
+    "guide": "fallout",
+    "step": 2
+  },
+  {
+    "question": "What do I do with clothing covered in fallout dust",
+    "guide": "fallout",
+    "step": 3
+  },
+  {
+    "question": "How do I remove a contaminated jacket after fallout",
+    "guide": "fallout",
+    "step": 3
+  },
+  {
+    "question": "How do I locate Polaris using the Big Dipper",
+    "guide": "stars",
+    "step": 2
+  },
+  {
+    "question": "Which stars point to the North Star",
+    "guide": "stars",
+    "step": 2
+  },
+  {
+    "question": "How can two shadow marks show east and west",
+    "guide": "shadow",
+    "step": 3
+  },
+  {
+    "question": "Which stick shadow mark is west in the morning",
+    "guide": "shadow",
+    "step": 3
+  },
+  {
+    "question": "What should I do with my muddy drinking water",
+    "guide": "treat",
+    "step": 2
+  },
+  {
+    "question": "How long can food last in the refrigerator after the electricity goes off",
+    "guide": "blackout",
+    "step": 3
+  },
+  {
+    "question": "How do I extinguish campfier embers",
+    "guide": "campfire",
+    "step": 6
+  },
+  {
+    "question": "Can I drink from a wadi in Hatta",
+    "guide": "findwater",
+    "step": 2
+  }
+]

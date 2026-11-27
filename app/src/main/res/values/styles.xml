@@ -1,0 +1,11 @@
+<resources>
+    <style name="FieldWindow" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#18251F</item>
+        <item name="android:colorBackground">#18251F</item>
+        <item name="android:statusBarColor">#18251F</item>
+        <item name="android:navigationBarColor">#18251F</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+</resources>

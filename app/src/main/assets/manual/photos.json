@@ -1,0 +1,110 @@
+[
+  {
+    "place": "Al Khlaibiyyah - Fujairah - United Arab Emirates",
+    "taxon": "Ziziphus spina-christi",
+    "observation": "https://www.inaturalist.org/observations/399997681",
+    "license": "cc-by",
+    "file": "sidr-1.jpg",
+    "group": "sidr",
+    "credit": "(c) Theo Busschau, some rights reserved (CC BY)"
+  },
+  {
+    "place": "Dubai International City - Dubai - Vereinigte Arabische Emirate",
+    "taxon": "Ziziphus spina-christi",
+    "observation": "https://www.inaturalist.org/observations/280467386",
+    "license": "cc0",
+    "file": "sidr-2.jpg",
+    "group": "sidr",
+    "credit": "no rights reserved"
+  },
+  {
+    "place": "Al Twar - Al Twar 1 - Dubai - Vereinigte Arabische Emirate",
+    "taxon": "Ziziphus spina-christi",
+    "observation": "https://www.inaturalist.org/observations/279940624",
+    "license": "cc0",
+    "file": "sidr-3.jpg",
+    "group": "sidr",
+    "credit": "no rights reserved"
+  },
+  {
+    "place": "33X6+XJ Hike in RaK - Ras Al Khaimah - United Arab Emirates",
+    "taxon": "Phoenix dactylifera",
+    "observation": "https://www.inaturalist.org/observations/258562287",
+    "license": "cc-by",
+    "file": "dates-1.jpg",
+    "group": "dates",
+    "credit": "(c) Theo Busschau, some rights reserved (CC BY)"
+  },
+  {
+    "place": "CF6W+6HJ - Rabdan - Abu Dhabi - United Arab Emirates",
+    "taxon": "Phoenix dactylifera",
+    "observation": "https://www.inaturalist.org/observations/232319358",
+    "license": "cc-by",
+    "file": "dates-2.jpg",
+    "group": "dates",
+    "credit": "(c) Chanda Miyanda, some rights reserved (CC BY)"
+  },
+  {
+    "place": "Shawka - Ras al Khaimah - United Arab Emirates",
+    "taxon": "Phoenix dactylifera",
+    "observation": "https://www.inaturalist.org/observations/151227389",
+    "license": "cc-by",
+    "file": "dates-3.jpg",
+    "group": "dates",
+    "credit": "(c) Theo Busschau, some rights reserved (CC BY)"
+  },
+  {
+    "place": "Abu Dhabi, AE",
+    "taxon": "Schistocerca gregaria",
+    "observation": "https://www.inaturalist.org/observations/255605362",
+    "license": "cc-by",
+    "file": "locust-1.jpg",
+    "group": "locust",
+    "credit": "(c) Sameer Shaik, some rights reserved (CC BY)"
+  },
+  {
+    "place": "Al Mirayr - Abu Dhabi - Vereinigte Arabische Emirate",
+    "taxon": "Schistocerca gregaria",
+    "observation": "https://www.inaturalist.org/observations/89448014",
+    "license": "cc-by",
+    "file": "locust-2.jpg",
+    "group": "locust",
+    "credit": "(c) Philipp, some rights reserved (CC BY)"
+  },
+  {
+    "place": "Al Muwaij'i - Abu Dhabi - United Arab Emirates",
+    "taxon": "Schistocerca gregaria",
+    "observation": "https://www.inaturalist.org/observations/49043115",
+    "license": "cc-by",
+    "file": "locust-3.jpg",
+    "group": "locust",
+    "credit": "(c) Sameer Shaik, some rights reserved (CC BY)"
+  },
+  {
+    "place": "Fujairah, Fujairah, AE",
+    "taxon": "Nerium oleander",
+    "observation": "https://www.inaturalist.org/observations/278359502",
+    "license": "cc-by",
+    "file": "oleander-1.jpg",
+    "group": "oleander",
+    "credit": "(c) Arabella Willing, some rights reserved (CC BY)"
+  },
+  {
+    "place": "Fujairah, Al Fujayrah, AE",
+    "taxon": "Nerium oleander",
+    "observation": "https://www.inaturalist.org/observations/197453709",
+    "license": "cc-by",
+    "file": "oleander-2.jpg",
+    "group": "oleander",
+    "credit": "(c) pavlaki1968, some rights reserved (CC BY)"
+  },
+  {
+    "place": "Khor Fakkan, Sharjah, Sharjah, AE",
+    "taxon": "Nerium oleander",
+    "observation": "https://www.inaturalist.org/observations/149231371",
+    "license": "cc-by",
+    "file": "oleander-3.jpg",
+    "group": "oleander",
+    "credit": "(c) Arabella Willing, some rights reserved (CC BY)"
+  }
+]

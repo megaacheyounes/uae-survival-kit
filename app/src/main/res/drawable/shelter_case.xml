@@ -1,0 +1,9 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="32dp" android:height="32dp"
+    android:viewportWidth="100" android:viewportHeight="100">
+    <path android:strokeColor="#FFC4A1" android:strokeWidth="6"
+        android:pathData="M38,35V27Q38,23 43,23H57Q62,23 62,27V35"/>
+    <!-- Cut the tent out of the case so it is legible with a single launcher tint. -->
+    <path android:fillColor="#FFF0D7" android:fillType="evenOdd"
+        android:pathData="M23,33H77Q83,33 83,39V71Q83,77 77,77H23Q17,77 17,71V39Q17,33 23,33Z M50,41L72,67H58L50,51V67H28Z"/>
+</vector>

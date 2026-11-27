@@ -1,0 +1,429 @@
+{
+  "caveair": {
+    "Get to fresh air now": ["I feel woozy inside a mine", "I feel faint after breathing fumes underground", "we feel sick in the cellar"],
+    "Keep the entrance clear": ["my friend collapsed inside a tank should I go in", "can I tell by smell if the air is safe"]
+  },
+  "sickfood": {
+    "Stop eating the food": ["vomiting after eating old meat", "I cannot keep water down after a meal", "stomach cramps after spoiled leftovers"],
+    "Explain what you ate": ["what should I tell a doctor about raw animal meat", "what if I swallowed a sharp piece of bone"]
+  },
+  "wildmushroom": {
+    "Leave it uneaten": ["could I cook this red toadstool", "can I tell an edible fungus by its cap"],
+    "Get poison advice now if any was swallowed": ["my child nibbled a wild mushroom but seems fine", "we already swallowed some unknown fungi"],
+    "Keep details for identification": ["which parts of the mushroom should I photograph for the doctor"]
+  },
+  "bugwound": {
+    "Check breathing and stop the bleeding": ["an insect left a bleeding puncture", "a sting made my tongue swell"],
+    "Watch the skin and how you feel": ["the redness around my bite keeps spreading", "my insect bite is hot and oozing"]
+  },
+  "dimsky": {
+    "Check visibility before moving": ["daylight faded at lunchtime", "the sky suddenly went dark in the afternoon"],
+    "Look for independent evidence": ["how can I check what is blocking the sunlight", "does birdsong stopping prove there is an eclipse"]
+  },
+  "animalbite": {
+    "Wash the wound and get assessed today": ["a street dog scratched my leg", "a stray cat bit me"]
+  },
+  "swallowedpoison": {
+    "Get poison advice immediately": ["a child took a sip of cleaning fluid", "someone swallowed a chemical"],
+    "A battery, magnet or sharp object needs emergency care now": ["a child swallowed a small round battery", "I swallowed two magnets"]
+  },
+  "stars": {
+    "Give your eyes a horizon": [
+      "where in sky look for Polaris Dubai",
+      "height of north star above horizon"
+    ],
+    "Trace the pointer stars": [
+      "locate Polaris using Big Dipper pointer stars",
+      "which stars point to north star Merak Dubhe"
+    ],
+    "Bring the bearing down to earth": [
+      "which way is north facing Polaris",
+      "directions east west south using north star"
+    ],
+    "Use the chart for tonight": [
+      "seasonal night sky chart",
+      "when Big Dipper hidden below horizon"
+    ],
+    "Practice before relying on it": [
+      "practice checking star bearing",
+      "verify north with compass"
+    ]
+  },
+  "shadow": {
+    "Set a vertical stick": [
+      "set up stick for finding direction",
+      "upright stick level ground"
+    ],
+    "Record the morning tip": [
+      "mark morning shadow tip",
+      "draw arc with string"
+    ],
+    "Wait for the second crossing": [
+      "find east and west using two shadow marks",
+      "join morning and afternoon shadow tips",
+      "which shadow mark is west",
+      "identify west from the morning stick shadow mark"
+    ],
+    "Check the result": [
+      "check north south shadow stick line",
+      "mistakes measuring shadow directions"
+    ]
+  },
+  "noon": {
+    "Mark the shortest shadow": [
+      "find local noon from shortest shadow",
+      "when does stick cast smallest shadow"
+    ],
+    "Build a daylight clock": [
+      "make a sundial to tell time",
+      "estimate the hour using shadow marks"
+    ],
+    "Understand the error": [
+      "why solar noon differs from clock noon",
+      "longitude and solar time"
+    ],
+    "Know when direction fails": [
+      "when midday shadow unreliable for direction",
+      "sun overhead southern UAE"
+    ]
+  },
+  "route": {
+    "Draw the return route first": [
+      "plan return route on paper",
+      "sketch landmarks and junctions"
+    ],
+    "Orient the map": [
+      "orient paper map with a compass",
+      "align map and compass north"
+    ],
+    "Record a fix everyone can read": [
+      "write down GPS coordinates",
+      "latitude or longitude first",
+      "record position accuracy"
+    ],
+    "Use a turnaround rule": [
+      "when turn back on a hike",
+      "lost trail turnaround rule"
+    ]
+  },
+  "findwater": {
+    "Start with water you can account for": [
+      "count household drinking water supplies",
+      "how much bottled water left",
+      "find a source of fresh drinking water",
+      "where can I get clean drinking water"
+    ],
+    "Read a water symbol correctly": [
+      "does a wadi on map mean drinkable water",
+      "falaj irrigation safe to drink",
+      "water symbols on map",
+      "can I drink from a wadi",
+      "can I drink from a well",
+      "is the water in an irrigation channel safe to drink"
+    ],
+    "Locate a documented Dubai refill": [
+      "where can I refill my water bottle in Dubai",
+      "drinking fountains near Kite Beach Marina Walk Zabeel Park"
+    ],
+    "Make a two-source route": [
+      "plan backup water resupply",
+      "route between refill points"
+    ],
+    "If the source is unknown": [
+      "what if water source quality unknown",
+      "avoid fenced wells and flood channels"
+    ],
+    "Collect without spoiling the reserve": [
+      "how to collect raw water separately",
+      "keep untreated container separate"
+    ]
+  },
+  "treat": {
+    "Decide what treatment can do": [
+      "can boiling remove salt or fuel",
+      "make seawater drinkable by boiling",
+      "does boiling remove chemical pollution from water"
+    ],
+    "Clarify cloudy fresh water": [
+      "how to clear muddy water before boiling",
+      "settle cloudy drinking water",
+      "remove grit from freshwater"
+    ],
+    "Bring the whole pot to a rolling boil": [
+      "how long should I boil drinking water",
+      "rolling boil time for freshwater",
+      "kill germs by boiling water"
+    ],
+    "Keep the clean side clean": [
+      "store treated drinking water safely",
+      "prevent clean water getting contaminated again"
+    ]
+  },
+  "campfire": {
+    "Choose the site before striking a match": [
+      "where can I safely build a campfire",
+      "windy conditions fire ring"
+    ],
+    "Prepare three sizes of dry fuel": [
+      "what fuel sizes do I need for a campfire",
+      "difference between tinder kindling and larger wood"
+    ],
+    "Light from the sheltered side": [
+      "how to light a campfire",
+      "start a cooking fire with a match",
+      "arrange tinder to ignite kindling"
+    ],
+    "If the flame dies": [
+      "why does my campfire keep going out",
+      "smoking wood will not catch",
+      "damp kindling troubleshooting"
+    ],
+    "Cook over stable support": [
+      "cook over campfire safely",
+      "support pot over fire"
+    ],
+    "Leave the ring cold": [
+      "how to put out a campfire completely",
+      "extinguish hot embers before leaving",
+      "cool down ashes in fire ring",
+      "extinguish the campfire embers"
+    ]
+  },
+  "shade": {
+    "Pick ground that stays safe": [
+      "where to stop stranded vehicle for shade",
+      "choose shelter site away from drainage"
+    ],
+    "Stretch a ventilated shade": [
+      "make shade using a tarp near car",
+      "rig ventilated sun shelter"
+    ],
+    "Make the site visible": [
+      "signal for help beside stranded vehicle",
+      "make car visible to rescuers"
+    ],
+    "Practice with the kit you carry": [
+      "practice setting up vehicle shade",
+      "what if wind catches tarp"
+    ]
+  },
+  "blackout": {
+    "Mark the time and light the route": [
+      "what to do first when power fails",
+      "electricity outage medical equipment torch"
+    ],
+    "Find the coolest usable room": [
+      "keep apartment cool when AC stops",
+      "find coolest room during blackout"
+    ],
+    "Separate food by what can wait": [
+      "how long food stays cold in fridge without power",
+      "closed freezer safe time in outage",
+      "how long does food last in a refrigerator when the power goes out"
+    ],
+    "Choose a safe meal and light": [
+      "how to light room and eat safely in blackout",
+      "charcoal indoors during outage"
+    ],
+    "Plan the handover": [
+      "plan overnight handover in blackout",
+      "family check in before relocation"
+    ]
+  },
+  "supplies": {
+    "Measure the starting stock": [
+      "make inventory for long power outage",
+      "stock ledger quantities"
+    ],
+    "Work a day on paper": [
+      "estimate remaining days of water from daily use",
+      "calculate resupply time"
+    ],
+    "Make a handwashing station": [
+      "set up handwashing station",
+      "soap tap basin washing hands"
+    ],
+    "Build a communications routine": [
+      "family communication plan when phones fail",
+      "agree meeting points and radio checks"
+    ],
+    "Close the day": [
+      "update household ledger each night",
+      "decide relocation based on supply"
+    ]
+  },
+  "fallout": {
+    "Get inside immediately": [
+      "first action when fallout warning arrives",
+      "where to go immediately after nuclear alert"
+    ],
+    "Choose the interior": [
+      "where inside a building should I shelter from fallout",
+      "safest room in apartment during radiation emergency",
+      "choose between window and interior room"
+    ],
+    "Leave outside dust at the entrance": [
+      "what to do with clothes covered in fallout dust",
+      "remove contaminated outer clothing"
+    ],
+    "Wash exposed skin": [
+      "how to wash radioactive dust off skin and hair",
+      "decontaminate yourself after fallout",
+      "shower shampoo conditioner radiation"
+    ],
+    "Use protected food and water": [
+      "what food and water can I use after fallout",
+      "sealed food radiation contamination"
+    ],
+    "Stay sheltered and monitor": [
+      "how long should I stay in fallout shelter",
+      "when can I leave after nuclear fallout",
+      "monitor radio for evacuation instructions"
+    ]
+  },
+  "sidr": {
+    "Look at the whole plant": [
+      "where does sidr tree grow",
+      "jujube habitat UAE"
+    ],
+    "Match several features together": [
+      "identify sidr leaves fruit thorns",
+      "recognize jujube leaf veins"
+    ],
+    "Know the edible part": [
+      "which part of sidr fruit is edible",
+      "remove jujube stone"
+    ],
+    "Practice recognition first": [
+      "confirm wild plant identification before eating",
+      "practice recognizing sidr"
+    ]
+  },
+  "dates": {
+    "Start with a known cultivated tree": [
+      "recognize cultivated date palm",
+      "identify date palm fronds"
+    ],
+    "Inspect the bunch from the ground": [
+      "how do I recognize a bunch of dates",
+      "ripening date fruit colours"
+    ],
+    "Use a known clean harvest": [
+      "how to handle harvested dates",
+      "remove date pit clean fruit"
+    ]
+  },
+  "oleander": {
+    "Recognize the shrub": [
+      "identify oleander shrub",
+      "oleander leaves and flowers"
+    ],
+    "Keep it out of the kitchen and fire": [
+      "can I use oleander as firewood or skewers",
+      "toxic parts of oleander"
+    ],
+    "If someone ate part of the plant": [
+      "what if someone ate oleander",
+      "oleander poisoning do not induce vomiting"
+    ]
+  },
+  "locust": {
+    "Observe insects where you stand": [
+      "recognize desert locust in UAE",
+      "observe grasshopper identification"
+    ],
+    "Separate observation from food collection": [
+      "can I eat wild locusts after spraying",
+      "pesticide residue on insects"
+    ],
+    "Choose food with a known origin": [
+      "safe source of edible insects",
+      "shellfish allergy insect food"
+    ]
+  },
+  "fish": {
+    "Verify a permitted shore site": [
+      "how to check fishing permit and shore access",
+      "legal recreational fishing licence"
+    ],
+    "Mark a published Abu Dhabi shore area": [
+      "where are approved fishing areas Abu Dhabi",
+      "shore fishing locations Yas Al Bahia"
+    ],
+    "Use the offline species sheet": [
+      "identify permitted fish species from booklet",
+      "check protected species fishing"
+    ],
+    "Plan for the return trip": [
+      "shore fishing trip return tide",
+      "safe shore fishing route"
+    ],
+    "Keep the catch cold": [
+      "keep fresh fish cold after catch",
+      "ice for harvested fish"
+    ],
+    "Land animals and birds": [
+      "can I collect bird eggs or hunt land animals during an outage",
+      "wildlife reserves nesting areas"
+    ]
+  },
+  "heat": {
+    "Plan strenuous errands and walks for cooler hours": [
+      "prepare for hot weather outing",
+      "plan strenuous activity cooler hours"
+    ],
+    "Take breaks in shade or air conditioning and drink water regularly": [
+      "reduce heat exposure drink water rest in shade",
+      "children in parked vehicles"
+    ]
+  },
+  "wadi": {
+    "Check the weather before entering a valley": [
+      "hiking in wadis during heavy rain",
+      "flash flood risk in valley drainage channels"
+    ],
+    "Turn back at a flooded road": [
+      "water covering road should I turn back",
+      "cross flooded road"
+    ]
+  },
+  "desert": {
+    "Carry drinking water and emergency supplies before going off paved roads.": [
+      "pack car before going off road",
+      "desert trip carry water emergency supplies"
+    ],
+    "If stranded in sand, stop spinning the wheels": [
+      "what to do when car stuck in sand",
+      "stranded desert vehicle spinning wheels"
+    ]
+  },
+  "mountain": {
+    "Leave your route and expected return time with someone before setting off": [
+      "what to tell someone before mountain hike",
+      "leave route return time"
+    ],
+    "Check local weather and trail conditions before departure": [
+      "check trail conditions and communication before hike"
+    ]
+  },
+  "coast": {
+    "Check flags, signs and lifeguard instructions before going into the water.": [
+      "what to check before going swimming",
+      "beach lifeguard flags"
+    ],
+    "A red flag warns of dangerous swimming conditions": [
+      "what does red beach flag mean",
+      "can I swim when red flag flying"
+    ]
+  },
+  "home": {
+    "If a fire starts, alert others and leave by the marked exit": [
+      "how to evacuate a house fire",
+      "stairs or lift during building fire"
+    ],
+    "Once outside, contact Civil Defence": [
+      "can I reenter after house fire",
+      "wait outside after evacuation"
+    ]
+  }
+}

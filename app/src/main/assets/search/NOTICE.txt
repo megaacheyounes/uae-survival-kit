@@ -1,0 +1,1 @@
+The English semantic search index includes quantized vectors derived from minishlab/potion-base-2M, revision 389b9f64be5aa4ae7a6bc6fe95ef20ce485ae5da. https://huggingface.co/minishlab/potion-base-2M. See LICENSE.txt.

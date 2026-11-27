@@ -1,0 +1,36 @@
+<resources>
+    <string name="near_safe">I’m safe</string>
+    <string name="near_help">I need help</string>
+    <string name="near_meet">Meet here</string>
+    <string name="kit_language_tag">en</string>
+    <string name="kit_card_error">This phone could not open that action. Try the other card option.</string>
+    <string name="kit_shelter">Fallout shelter</string>
+    <string name="kit_power">Keep your phone running</string>
+    <string name="kit_inside">Get inside immediately</string>
+    <string name="kit_inside_text">Enter the nearest sturdy building. Move to the basement or the middle of the building, away from windows, exterior walls and the roof.</string>
+    <string name="kit_stay">Stay sheltered</string>
+    <string name="kit_stay_text">Close doors and windows. Switch off ventilation that draws outdoor air. Plan to stay inside for at least 24 hours. Follow official instructions about leaving. If fire or structural damage threatens you, move to the nearest safe building.</string>
+    <string name="kit_updates">Receive updates</string>
+    <string name="kit_updates_text">Keep one phone reachable for emergency alerts. Listen to local broadcasts on a battery radio. Follow official directions about evacuation. An offline map cannot tell you where radiation is present.</string>
+    <string name="kit_outside">If you were outdoors</string>
+    <string name="kit_outside_text">Once inside, gently remove your outer clothing without shaking it. Seal it in a bag away from people and pets. Wash exposed skin gently with soap and lukewarm water, or wipe it with a clean damp cloth. Put on clean clothing.</string>
+    <string name="kit_family">Sheltering with family</string>
+    <string name="kit_family_text">Keep children, pets, medicines and drinking water together in the protected room. Help anyone who needs assistance wash and change, then wash your hands. If family members are sheltered elsewhere, ask them by text to stay sheltered and follow local instructions.</string>
+    <string name="kit_prepare">Prepare before an outage</string>
+    <string name="kit_prepare_text">Test the charger and cable with this phone. If buying a power bank, check its output port and your cable. Try one complete recharge at home and record the result. Pack a spare cable, a battery radio and a paper shelter card. Store batteries away from heat and parked cars.</string>
+    <string name="kit_low">My battery is low now</string>
+    <string name="kit_low_text">Turn on Battery Saver or Power saving. Dim the screen and shorten the screen timeout. Read the saved instructions, then lock the screen. Pause video, downloads, GPS and local AI until needed. Keep the mobile network on if you rely on cellular emergency alerts. Airplane mode cuts off those alerts.</string>
+    <string name="kit_recharge">Recharge during a long outage</string>
+    <string name="kit_recharge_text">Read the bank’s remaining charge before and after charging. Keep a charged reserve if possible. A portable solar panel needs daylight and a compatible output; test it before an outage. During fallout, stay sheltered. Keep charging equipment dry, shaded and ventilated. Stop using a swollen or damaged battery.</string>
+    <string name="kit_settings">Open battery settings</string>
+    <string name="kit_fallback">Open Settings and search for Battery.</string>
+    <string name="kit_log">Charge log</string>
+    <string name="kit_log_text">Record the phone’s battery level before and after charging, or at the same time each day. The latest 30 readings stay on this phone.</string>
+    <string name="kit_record">Record battery level</string>
+    <string name="kit_unavailable">Battery reading unavailable</string>
+    <string name="kit_card">Share printable shelter card</string>
+    <string name="kit_full">Illustrated shelter guide (English)</string>
+    <string name="kit_back">Back</string>
+    <string name="kit_sources">Sources</string>
+    <string name="kit_print">Print shelter card</string>
+</resources>

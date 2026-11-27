@@ -1,0 +1,11 @@
+.build/
+.private/
+.gradle/
+.kotlin/
+local.properties
+**/build/
+app/src/main/jniLibs/
+delivery/
+*.iml
+.idea/
+__pycache__/

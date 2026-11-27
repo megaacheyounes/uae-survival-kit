@@ -1,0 +1,10 @@
+[
+  {"id":"awning","question":"Our bedsheet awning keeps the sunlight off, but the air underneath is stifling. How should we rig it?","gold":"shade/1"},
+  {"id":"wash","question":"Everyone in camp needs to clean their hands. How can I arrange a jug and somewhere for the dirty runoff?","gold":"supplies/2"},
+  {"id":"freezer","question":"Electricity went out overnight. Will the frozen groceries last longer if the drawers were packed full?","gold":"blackout/2"},
+  {"id":"clothes","question":"I tracked fallout indoors on my jacket. How should I take it off without spreading dust around my family?","gold":"fallout/2"},
+  {"id":"silt","question":"There's brown grit swirling in my pot of creek water. What comes before heating it?","gold":"treat/1"},
+  {"id":"backup","question":"If the public fountain on our walk turns out to be dry, how should we have planned the trip?","gold":"findwater/3"},
+  {"id":"trivia","question":"Which composer wrote the soundtrack for the film Interstellar?","gold":null},
+  {"id":"unsupported","question":"Can you give me the factory torque setting for the wheel bolts on a 2016 hatchback?","gold":null}
+]

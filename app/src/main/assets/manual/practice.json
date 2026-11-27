@@ -1,0 +1,44 @@
+[
+  {
+    "id": "hatta", "title": "Hatta day trip",
+    "tasks": {
+      "return": "Write down the route and latest return time.",
+      "junctions": "Mark junctions as they will look on the way back.",
+      "paper": "Pack a paper map, pencil and compass.",
+      "water": "Check the refill point and carry water for the return."
+    },
+    "questions": [
+      {"id":"junction","prompt":"Two tracks look alike on the return from Hatta. What would help you recognize your junction?","choices":["The total length of the walk","A sketch of the junction facing home","The height of the starting point"],"answer":1,"guide":"route","heading":"Draw the return route first"},
+      {"id":"fix","prompt":"You have a GPS fix and little battery left. What belongs on your paper route card?","choices":["Coordinates, accuracy, time and a nearby landmark","Estimated distance walked and phone battery level","The town name and the map zoom level"],"answer":0,"guide":"route","heading":"Record a fix everyone can read"},
+      {"id":"turn","prompt":"Your planned turnaround time arrives while the viewpoint is still ahead. Which entry governs your decision?","choices":["The original estimate of the trail length","The distance from the viewpoint","The return time and supply threshold you set before leaving"],"answer":2,"guide":"route","heading":"Use a turnaround rule"}
+    ]
+  },
+  {
+    "id": "water", "title": "Water resupply",
+    "tasks": {
+      "count": "Measure the drinking water already on hand.",
+      "primary": "Confirm a working drinking-water point and access.",
+      "backup": "Write down a second reachable refill point.",
+      "containers": "Separate clean drinking containers from collection vessels."
+    },
+    "questions": [
+      {"id":"well","prompt":"Your offline map shows a well. What can you conclude from the symbol alone?","choices":["The well is open to the public","The water is ready to drink","A well was mapped at that location"],"answer":2,"guide":"findwater","heading":"Read a water symbol correctly"},
+      {"id":"backup","prompt":"Your planned refill is marked on an old map. What makes the route more dependable?","choices":["Checking access and confirming a second reachable supply","Saving the same pin on a second screen","Writing down the distance to the pin alone"],"answer":0,"guide":"findwater","heading":"Make a two-source route"},
+      {"id":"stock","prompt":"You have six sealed 1.5 litre bottles. What amount do you enter as your starting stock?","choices":["6 litres","9 litres","15 litres"],"answer":1,"guide":"findwater","heading":"Start with water you can account for"}
+    ]
+  },
+  {
+    "id": "blackout", "title": "Home blackout",
+    "tasks": {
+      "torch": "Put a working torch by the door and shoes near each bed.",
+      "stock": "Count water, ready-to-eat meals and charged lights.",
+      "cool": "Identify a cooler place the household can reach.",
+      "handover": "Write down who holds the keys and the next check-in time."
+    },
+    "questions": [
+      {"id":"log","prompt":"The power cuts out in your apartment. Which time should go in your household log first?","choices":["When the freezer was last stocked","When power failed","When the household usually eats dinner"],"answer":1,"guide":"blackout","heading":"Mark the time and light the route"},
+      {"id":"handover","prompt":"Another person takes over the household watch. Which note helps them act?","choices":["The outage start time without the next check-in","A supply list without names or locations","Who has keys and supplies, and when to check in next"],"answer":2,"guide":"blackout","heading":"Plan the handover"},
+      {"id":"ledger","prompt":"Your supply ledger started at 18 litres. After using 7 litres, what goes in the remaining-stock column?","choices":["11 litres","7 litres","18 litres"],"answer":0,"guide":"supplies","heading":"Work a day on paper"}
+    ]
+  }
+]
