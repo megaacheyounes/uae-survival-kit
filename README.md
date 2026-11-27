@@ -1,8 +1,14 @@
-# UAE Survival Kit
+<h1><img src="docs/shelter-icon.svg" width="42" height="42" align="absmiddle" alt=""> UAE Survival Kit</h1>
 
 **[Download the Android APK · 1.24 beta 1](https://github.com/megaacheyounes/uae-survival-kit/releases/download/1.24-beta.1/UAE-Survival-Kit-1.24-beta.1.apk)** · [Release notes and checksums](https://github.com/megaacheyounes/uae-survival-kit/releases/tag/1.24-beta.1)
 
 A free offline preparedness app for all seven emirates. Open the downloaded APK on an ARM64 phone or tablet running Android 11 or later.
+
+| Home | Offline UAE map | When the taps stop |
+| :---: | :---: | :---: |
+| [<img src="docs/home.png" width="230" alt="Home with quick actions and emergency contacts">](docs/home.png) | [<img src="docs/offline-map.png" width="230" alt="Offline UAE road map with hospital and pharmacy filters">](docs/offline-map.png) | [<img src="docs/water-guide.png" width="230" alt="Water outage guide with illustrated container instructions and drinking water ledger">](docs/water-guide.png) |
+
+Map data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright).
 
 ## What works offline
 
@@ -12,7 +18,5 @@ A free offline preparedness app for all seven emirates. Open the downloaded APK 
 - **Nearby radio.** Exchange public messages over Bluetooth, or pair two phones on local Wi-Fi or a hotspot for private chat and push-to-talk.
 
 Satellite imagery and on-device AI are optional. Download or import them ahead of time if you want to use them offline.
-
-<img src="docs/home.png" width="230" alt="UAE Survival Kit Home screen with shortcuts for shelter, water outages, phone power and the field radio">
 
 [Build from source](docs/BUILD.md) · [Apache 2.0 license for the original code](LICENSE). Third-party content retains its own licenses.
